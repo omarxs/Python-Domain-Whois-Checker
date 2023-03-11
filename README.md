@@ -21,16 +21,22 @@ To run the script, navigate to the directory containing the script and run the f
 The script will print the following information for each domain listed in the 'domains.txt' file:
 
 Domain Name:
+
 Domain Registrar:
+
 Creation Date:
+
 Expiry Date:
+
 Nameservers:
 
 
 ## Sample 'domains.txt' file
 
 example1.com
+
 example2.net
+
 example3.org
 
 
